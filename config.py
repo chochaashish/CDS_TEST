@@ -1,0 +1,7 @@
+KEYWORD_TO_COUNT = 'CDS'
+LOGGER_FILE_PATH = 'file_monitor.log'
+FILE_ONE_TO_WRITE = 'test_one.log'
+FILE_TWO_TO_WRITE = 'test_two.log'
+WAIT_TIME_SECONDS = 1
+CURRENT_DIR = '.'
+MAX_RUN_TIME = 2  # SECONDS
